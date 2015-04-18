@@ -1,0 +1,4 @@
+Auto delete queue: 
+1.An auto delete queue will be deleted when number of consumer becomes zero.
+2.If a declared queue has no consumer it wait until a consumer starts comsuming.Now ones all
+the consumer disconnects then it will be deleted.
